@@ -30,7 +30,7 @@ Alpha 2.0
 ---
 ![Окно справки](https://user-images.githubusercontent.com/85519603/138089085-260ab6cd-3a91-4994-bdb7-fc51b5e074a8.PNG)
 
-Скриншот окна выобра доступа
+Скриншот окна выбора доступа
 ---
 <img width="224" alt="Право" src="https://user-images.githubusercontent.com/85519603/140770026-b1aaaf0f-3a78-4a2d-9f9e-10e60b7b9761.PNG">
 
